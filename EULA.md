@@ -10,7 +10,7 @@
 ## 2. LICENSE GRANT
 We grant you a **non-exclusive, non-transferable, revocable** license to:
 - Use the Software for personal/non-commercial purposes
-- Install on up to 3 Windows devices you own
+- Install on Windows devices you own
 
 ## 3. RESTRICTIONS
 You **MAY NOT**:
@@ -35,7 +35,6 @@ We expressly disclaim:
 - Lost profits or business interruption
 - Any direct/indirect/consequential damages
 
-Maximum liability (if any) shall not exceed **$10 USD**.
 
 ## 6. USER RESPONSIBILITIES
 You agree to:
@@ -50,14 +49,6 @@ The Software **does not**:
 - Transmit usage data (unless opt-in analytics enabled)
 - Store IP addresses
 
-## 8. TERMINATION
-We may terminate this license if you:
-- Violate any EULA terms
-- Attempt to bypass security measures
-- Use the Software illegally
-
-## 9. GOVERNING LAW
-This agreement shall be governed by the laws of **[Your Country/State]**, with exclusive jurisdiction in **[Your City] courts**.
 
 ## 10. ENTIRE AGREEMENT
 This EULA constitutes the complete agreement between parties regarding the Software.
