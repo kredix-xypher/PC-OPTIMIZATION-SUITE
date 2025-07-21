@@ -50,7 +50,7 @@ The Software **does not**:
 - Store IP addresses
 
 
-## 10. ENTIRE AGREEMENT
+## 8. ENTIRE AGREEMENT
 This EULA constitutes the complete agreement between parties regarding the Software.
 
 ---
