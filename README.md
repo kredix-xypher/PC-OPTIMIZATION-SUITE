@@ -18,7 +18,6 @@ Here’s your enhanced **KREDIX XYPHER - Ultimate Optimization Suite** documenta
 ---
 
 ## **📌 Features**  
-✅ **AI-Driven Optimization** – Smart analysis for tailored tweaks  
 ✅ **5 Optimization Modes** – From **Safe Cleanup** to **Extreme Performance**  
 ✅ **Gaming Mode** – Low-latency tweaks for competitive play  
 ✅ **Driver & Bloatware Management** – Remove junk safely  
@@ -55,10 +54,6 @@ Here’s your enhanced **KREDIX XYPHER - Ultimate Optimization Suite** documenta
 ### **Step 2: Choose Mode**  
 ![Mode Selection](https://i.imgur.com/JK7w3E9.png)  
 *(Select from Smart/Max/Game/Clean/Reset)*  
-
-### **Step 3: Monitor Live Logs**  
-![Live Optimization Logs](https://i.imgur.com/8pGtR2V.png)  
-*(Real-time status updates in GUI)*  
 
 ### **Step 4: Restart if Needed**  
 🔄 Some changes require a reboot for full effect.  
