@@ -31,6 +31,13 @@ Here's your updated documentation with mode names aligned to the code:
    ```powershell
    Checkpoint-Computer -Description "Pre-KredixBackup"
 
+## 📜 **END USER AGREEMENT**  
+[✓] I confirm that:  
+- I have created a system restore point  
+- I have backed up critical data  
+- I am NOT using this on mission-critical systems  
+- I accept all risks outlined in [EULA.md](link)  
+
 ## **🛠️ Optimization Levels**  
 
 | Mode | Description | Risk Level |
