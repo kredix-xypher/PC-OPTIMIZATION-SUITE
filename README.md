@@ -37,20 +37,8 @@
 
 ---
 
-## **📥 Installation & Usage**  
+## **📥 Usage**  
 
-### **Method 1: Download & Run GUI EXE**  
-```powershell
-Invoke-WebRequest -Uri "https://yourdomain.com/KREDIX_XYPHER.exe" -OutFile "KREDIX_XYPHER.exe"
-Start-Process ".\KREDIX_XYPHER.exe"
-```
-
-### **Method 2: Clone Developer Repo**  
-```bash
-git clone https://github.com/YourUsername/Kredix-Xypher.git
-cd Kredix-Xypher
-powershell -ExecutionPolicy Bypass -File main.ps1
-```
 
 ### **🔹 How to Use**  
 1. **Run as Administrator** (Auto-prompted)  
