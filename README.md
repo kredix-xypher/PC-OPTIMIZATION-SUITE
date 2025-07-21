@@ -54,7 +54,7 @@ Here’s your enhanced **KREDIX XYPHER - Ultimate Optimization Suite** documenta
 ### **Step 2: Choose Mode**  
 *(Select from Smart/Max/Game/Clean/Reset)*  
 
-### **Step 4: Restart if Needed**  
+### **Step 3: Restart if Needed**  
 🔄 Some changes require a reboot for full effect.  
 
 ---
