@@ -5,7 +5,7 @@ Here's your updated documentation with mode names aligned to the code:
 # **KREDIX XYPHER - Ultimate Optimization Suite** 🚀  
 *(AI-Powered Windows Optimization Tool)*  
 
-![KREDIX XYPHER GUI Preview](https://i.imgur.com/fX5Jz7L.png)  
+![KREDIX XYPHER GUI Preview](interface.png)  
 
 ---
 
