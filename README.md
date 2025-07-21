@@ -1,16 +1,17 @@
 # **KREDIX XYPHER - Ultimate Optimization Suite** 🚀  
 
-**⚡ Boost your Windows performance with advanced optimizations!**  
-**🔧 From basic cleanup to extreme gaming tweaks – all in one script.**  
+**⚡ Boost your Windows performance with advanced AI-powered optimizations!**  
+**🔧 From basic cleanup to extreme gaming tweaks – all controlled via an intelligent GUI.**  
 
 ---
 
 ## **📌 Features**  
 
-✅ **Multi-Level Optimization** – Choose from **Basic** to **Nuclear** mode  
+✅ **Multi-Level Optimization** – Choose from **Smart**, **Max**, **Game**, **Clean**, and **Reset** levels  
 ✅ **Gaming Mode** – Reduce latency & maximize FPS  
-✅ **Driver Management** – Backup, restore, and update drivers  
-✅ **Safety Rollback** – Revert changes if needed  
+✅ **Driver & Service Management** – Clean junk, trim bloat, and tweak safely  
+✅ **Smart AI Triggers** – Context-aware optimizations  
+✅ **GUI Interface** – Iconic design with background, interactive buttons, and hover actions  
 ✅ **Admin-Friendly** – Auto-elevates to admin rights  
 
 ---
@@ -18,77 +19,79 @@
 ## **🛠️ Optimization Levels**  
 
 | Level | Description | Best For |
-|-------|------------|---------|
-| **1️⃣ Basic** | Safe cleanup & maintenance | Everyday users |
-| **2️⃣ Advanced** | Balanced optimizations | Performance seekers |
-| **3️⃣ Aggressive** | Speed over stability | Power users |
-| **4️⃣ Extreme** | Max performance tweaks | Gamers & enthusiasts |
-| **5️⃣ Nuclear** | Radical optimizations (⚠️ Use with caution) | Last resort |
+|-------|-------------|----------|
+| **🧠 Smart** | Intelligent auto-optimization | General users |
+| **⚙️ Max** | Deep tweaks for speed | Advanced users |
+| **🎮 Game** | Focused on FPS & latency | Gamers |
+| **🧹 Clean** | Junk removal + background cleanup | Maintenance |
+| **♻️ Reset** | Undo all changes | Recovery |
 
 ---
 
 ## **🎮 Gaming Mode**  
 ✔ **Ultimate Performance Power Plan**  
-✔ **Disable Game Bar & DVR**  
-✔ **Optimize GPU & network for gaming**  
-✔ **Reduce input lag**  
+✔ **Disable Xbox Game Bar & DVR**  
+✔ **Optimize GPU settings (AMD/NVIDIA)**  
+✔ **Reduce input delay**  
+✔ **Tweak network & background services**  
 
 ---
 
 ## **📥 Installation & Usage**  
 
-### **Method 1: Direct Download & Run**  
+### **Method 1: Download & Run GUI EXE**  
 ```powershell
-irm "https://raw.githubusercontent.com/YourUsername/Kredix-Xypher/main/Kredix_Xypher.bat" -OutFile "Kredix_Xypher.bat"  
-.\Kredix_Xypher.bat
+Invoke-WebRequest -Uri "https://yourdomain.com/KREDIX_XYPHER.exe" -OutFile "KREDIX_XYPHER.exe"
+Start-Process ".\KREDIX_XYPHER.exe"
 ```
 
-### **Method 2: Clone the Repo**  
+### **Method 2: Clone Developer Repo**  
 ```bash
 git clone https://github.com/YourUsername/Kredix-Xypher.git
 cd Kredix-Xypher
-.\Kredix_Xypher.bat
+powershell -ExecutionPolicy Bypass -File main.ps1
 ```
 
 ### **🔹 How to Use**  
 1. **Run as Administrator** (Auto-prompted)  
-2. **Select an optimization level (1-9)**  
-3. **Follow instructions & restart if needed**  
+2. **Choose desired optimization level from GUI**  
+3. **Watch live logs and progress on the interface**  
+4. **Restart if prompted for deep-level changes**  
 
 ---
 
 ## **⚠️ Warning**  
-- **Nuclear mode disables critical services** (Use only if necessary)  
-- **Backup drivers & create a restore point first**  
-- **Undo changes if system behaves unexpectedly**  
+- **Extreme & Reset levels affect system settings deeply**  
+- **Always backup important data and drivers**  
+- **Undo or reset if issues arise post-optimization**  
 
 ---
 
 ## **📜 License**  
-**MIT License** – Free to use, modify, and distribute.  
+**MIT License** – Free to use, modify, and share.  
 
 ---
 
 ## **🌟 Star & Contribute**  
-If you find this useful, **⭐ Star the repo** and contribute improvements!  
+Love the tool? **⭐ Star the GitHub repo** and help improve it!  
 
 🔗 **GitHub**: [https://github.com/YourUsername/Kredix-Xypher](https://github.com/YourUsername/Kredix-Xypher)  
 
 ---
 
 ### **📊 Performance Gains (Expected)**  
-| Optimization Level | Speed Boost | Stability Impact |
-|--------------------|------------|------------------|
-| Basic | ⚡ +10-15% | ✅ Safe |
-| Advanced | ⚡⚡ +20-30% | ⚠️ Minor |
-| Aggressive | ⚡⚡⚡ +30-50% | ⚠️ Moderate |
-| Extreme | ⚡⚡⚡⚡ +50-70% | ⚠️ High |
-| Nuclear | ⚡⚡⚡⚡⚡ +70%+ | ❌ Risky |
+| Mode | Speed Boost | Risk Level |
+|------|-------------|------------|
+| Smart | ⚡ +15% | ✅ Safe |
+| Max | ⚡⚡ +25-35% | ⚠️ Moderate |
+| Game | ⚡⚡ +30-45% | ⚠️ Minor tweaks |
+| Clean | ⚡ +10% | ✅ Safe |
+| Reset | ↩️ Restore | ✅ Safe |
 
 ---
 
-**💡 Pro Tip:** Use **Gaming Mode + Extreme Optimization** for best gaming performance!  
+**💡 Pro Tip:** Try **Game + Max** for the ultimate gaming boost!  
 
 ---
 
-**🚀 Ready to supercharge your PC? Try KREDIX XYPHER now!** 🚀
+**🚀 KREDIX XYPHER – Your PC. Your Power.**
