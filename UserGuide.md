@@ -38,8 +38,7 @@
 2. Run `Launcher.exe` as Admin  
 3. No installation required  
 
-![Installation](https://i.imgur.com/install.png)  
-*Fig 2. Installation process*
+
 
 ---
 
@@ -54,8 +53,7 @@
 4. **Emergency Stop**  
    - Halts active optimizations  
 
-![UI Labels](https://i.imgur.com/uimap.png)  
-*Fig 3. Interface component map*
+
 
 ---
 
@@ -77,8 +75,7 @@
 - Service optimization  
 - Network tweaks  
 
-*Visual Guide:*  
-![Advanced Mode](https://i.imgur.com/advanced.png)  
+
 
 *(See Appendix A for full mode comparisons)*  
 
