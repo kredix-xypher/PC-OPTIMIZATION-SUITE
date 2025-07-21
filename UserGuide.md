@@ -1,7 +1,7 @@
 # **KREDIX XYPHER OPTIMIZER - User Guide**  
 *(v5.0 | AI-Powered Windows Optimization)*  
 
-![App Interface](https://i.imgur.com/example.png)  
+![App Interface](interface.png)  
 *Fig 1. Main interface with optimization levels*
 
 ---
