@@ -1,4 +1,4 @@
-Here’s your enhanced **KREDIX XYPHER - Ultimate Optimization Suite** documentation with **preview images, bold warnings, and disclaimers**:
+Here's your updated documentation with mode names aligned to the code:
 
 ---
 
@@ -6,86 +6,74 @@ Here’s your enhanced **KREDIX XYPHER - Ultimate Optimization Suite** documenta
 *(AI-Powered Windows Optimization Tool)*  
 
 ![KREDIX XYPHER GUI Preview](https://i.imgur.com/fX5Jz7L.png)  
-*(Sleek, futuristic interface with real-time optimization controls)*  
 
 ---
 
 ## **⚠️ WARNING – USE AT YOUR OWN RISK**  
 ❌ **We are NOT responsible for system instability, data loss, or any issues.**  
-❌ **Always backup critical files and create a system restore point.**  
-❌ **Extreme optimizations may affect stability. Use cautiously!**  
-
----
-
-## **📌 Features**  
-✅ **5 Optimization Modes** – From **Safe Cleanup** to **Extreme Performance**  
-✅ **Gaming Mode** – Low-latency tweaks for competitive play  
-✅ **Driver & Bloatware Management** – Remove junk safely  
-✅ **GUI with Live Logs** – Real-time feedback on changes  
+❌ **Always create a system restore point before optimization.**  
 
 ---
 
 ## **🛠️ Optimization Levels**  
 
-| Level | Description | Best For | Risk Level |
-|-------|-------------|----------|------------|
-| **🧠 Smart** | AI-recommended tweaks | Daily users | ⚠️ Low |  
-| **⚡ Max** | Aggressive performance boost | Power users | ⚠️ Moderate |  
-| **🎮 Game** | FPS focus + latency reduction | Gamers | ⚠️ Medium |  
-| **🧹 Clean** | Junk cleanup + maintenance | All users | ✅ Safe |  
-| **♻️ Reset** | Revert all changes | Recovery | ✅ Safe |  
+| Mode | Description | Risk Level |
+|------|-------------|------------|
+| **🔰 Basic (Safe)** | Light cleaning and maintenance | ✅ Lowest |  
+| **⚖️ Advanced (Recommended)** | Balanced optimizations | ⚠️ Low |  
+| **🚀 Aggressive (Performance)** | Trades stability for speed | ⚠️ Medium |  
+| **🎯 Extreme (Gamers/Enthusiasts)** | Maximum performance tuning | ⚠️ High |  
+| **☢️ Nuclear (Last Resort)** | Radical optimizations | ☢️ Extreme |  
+| **🎮 Gaming Mode** | Low-latency tweaks | ⚠️ Medium |  
+| **🛠️ Driver Tools** | Backup/Restore drivers | ✅ Safe |  
+| **↩️ Undo Changes** | Safety rollback | ✅ Safest |  
 
 ---
 
-## **🎮 Gaming Mode (Key Tweaks)**  
-✔ **Disable Game Bar & DVR** (FPS boost)  
-✔ **Ultimate Performance Power Plan**  
-✔ **GPU-Specific Tweaks** (NVIDIA/AMD/Intel)  
-✔ **Network Latency Reduction**  
-✔ **Background Service Optimization**  
+## **📌 Key Features**  
+✔ **7 Optimization Tiers** - From safe cleaning to radical tuning  
+✔ **Specialized Modes** - Gaming and driver management  
+✔ **Safety Net** - Rollback capability for all changes  
 
 ---
 
-## **📥 Usage Guide**  
-
-### **Step 1: Run as Admin**  
-▶️ Right-click → **"Run as Administrator"** *(Required for deep tweaks)*  
-
-### **Step 2: Choose Mode**  
-*(Select from Smart/Max/Game/Clean/Reset)*  
-
-### **Step 3: Restart if Needed**  
-🔄 Some changes require a reboot for full effect.  
+## **🎮 Gaming Mode Highlights**  
+• Disables Game Bar & DVR  
+• Optimizes GPU scheduling  
+• Reduces input latency  
+• Tweaks network buffers  
 
 ---
 
-## **📜 License & Disclaimer**  
-🔹 **MIT License** – Free for personal/commercial use.  
-🔹 **NO WARRANTY** – Use at your own risk. We are **not liable** for damages.  
-🔹 **Backup First!** – Critical settings may be altered.  
+## **📥 Usage**  
+1. **Run as Administrator**  
+2. Select your optimization level:  
+   - *For most users:* **Advanced (Recommended)**  
+   - *For gamers:* **Gaming Mode** or **Extreme**  
+   - *Emergency use:* **Undo Changes**  
+3. Monitor real-time logs  
+4. Reboot when prompted  
 
 ---
 
-## **📊 Expected Performance Gains**  
-| Mode | Speed Boost | Stability |  
-|------|-------------|-----------|  
-| Smart | ⚡ +10-20% | ✅ High |  
-| Max | ⚡⚡ +25-40% | ⚠️ Medium |  
-| Game | ⚡⚡ +30-50% FPS | ⚠️ Medium |  
-| Clean | ⚡ +5-15% | ✅ High |  
+## **📊 Performance Expectations**  
+| Mode | Speed Boost | Risk | Best For |  
+|------|------------|------|----------|  
+| Basic | +5-10% | ✅ | Office PCs |  
+| Advanced | +10-20% | ⚠️ | Daily drivers |  
+| Aggressive | +20-30% | ⚠️⚠️ | Power users |  
+| Extreme | +30-40% | ⚠️⚠️⚠️ | Enthusiasts |  
+| Nuclear | +40-60% | ☢️ | Emergency use |  
 
 ---
 
-
-### **🚨 Final Warning**  
-🔴 **This tool modifies system settings deeply.**  
-🔴 **Improper use may lead to crashes or data loss.**  
-🔴 **Only proceed if you understand the risks!**  
+## **📜 Critical Disclaimer**  
+❗ **Nuclear mode may cause system instability**  
+❗ **Always backup drivers before using Driver Tools**  
+❗ **Undo Changes cannot recover deleted files**  
 
 ---
 
-**🚀 KREDIX XYPHER – Push Your System to the Limit!**  
+**🚀 Ready to optimize?**  
+[Download Now] • [GitHub] • [User Guide]  
 
-*(Screenshot placeholders can be replaced with actual GUI images. Adjust links as needed.)*  
-
---- 
