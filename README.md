@@ -75,5 +75,4 @@ Here's your updated documentation with mode names aligned to the code:
 ---
 
 **🚀 Ready to optimize?**  
-[Download Now] • [GitHub] • [User Guide]  
 
