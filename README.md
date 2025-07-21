@@ -52,7 +52,6 @@ Here’s your enhanced **KREDIX XYPHER - Ultimate Optimization Suite** documenta
 ▶️ Right-click → **"Run as Administrator"** *(Required for deep tweaks)*  
 
 ### **Step 2: Choose Mode**  
-![Mode Selection](https://i.imgur.com/JK7w3E9.png)  
 *(Select from Smart/Max/Game/Clean/Reset)*  
 
 ### **Step 4: Restart if Needed**  
