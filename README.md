@@ -15,6 +15,22 @@ Here's your updated documentation with mode names aligned to the code:
 
 ---
 
+## ⚠️ **NO LIABILITY CLAUSE**  
+**By using KREDIX XYPHER OPTIMIZER, you agree that:**  
+- The developer (**YOU**) is **not responsible** for:  
+  - Data loss/corruption  
+  - System instability  
+  - Hardware failures  
+  - Any direct/indirect damages  
+- This is **experimental software** - use at your **own risk**  
+- Users must **backup all critical data** before use
+
+- ## 🔐 **REQUIRED PRE-STEPS**  
+**Before ANY optimization:**  
+1. Create a **System Restore Point**  
+   ```powershell
+   Checkpoint-Computer -Description "Pre-KredixBackup"
+
 ## **🛠️ Optimization Levels**  
 
 | Mode | Description | Risk Level |
