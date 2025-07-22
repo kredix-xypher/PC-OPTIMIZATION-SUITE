@@ -17,7 +17,7 @@ Here's your updated documentation with mode names aligned to the code:
 
 ## ⚠️ **NO LIABILITY CLAUSE**  
 **By using KREDIX XYPHER OPTIMIZER, you agree that:**  
-- The developer (**YOU**) is **not responsible** for:  
+- The developer (**KREDIX-XYPHER**) is **not responsible** for:  
   - Data loss/corruption  
   - System instability  
   - Hardware failures  
