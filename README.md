@@ -97,6 +97,8 @@ Here's your updated documentation with mode names aligned to the code:
 ❗ **Undo Changes cannot recover deleted files**  
 
 ---
+"Licensed under MIT – see LICENSE
+. Usage also requires agreement to EULA.md
 
 **🚀 Ready to optimize?**  
 
